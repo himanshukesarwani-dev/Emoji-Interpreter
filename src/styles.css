@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Corinthia:wght@700&family=Lato&display=swap");
+
+.App {
+  font-family: "Corinthia", cursive;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+input {
+  background-color: #e5e7eb;
+  width: 80%;
+  padding: 1rem;
+  margin: 2rem auto;
+}
+
+div {
+  font-family: "Lato", sans-serif;
+}
+
+span {
+  font-size: 2rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.heading-class {
+  font-size: 2rem;
+  margin: 2rem auto;
+}
